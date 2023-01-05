@@ -1,6 +1,6 @@
 # Casa de Apostas 
 Este repositorio contem um sistema de gerenciamento de casas de apostas <br>
-Feito como trabalho final da cadeira de Projeto de Banco de Dados
+Feito como trabalho final da cadeira de Projeto de Banco de Dados pela dupla Allan Schuch e Jelson Rodrigues
 
 # Run
 ## Banco de dados
